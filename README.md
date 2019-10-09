@@ -10,8 +10,8 @@ Tunnel Racer is a challenging arcade racer! In this fast paced game you must avo
 This game was entered into the Ludem Dare Compo, and was made from scratch within 48 hours by a team of one. The entry page is here.
 Controls:
 
-Mouse - look 
-WASD - move/strafe 
-QE - rotate 
-Shift - brake 
-Spacebar - thrust
+- look - mouse
+- move/strafe - WASD
+- rotate - QE
+- brake - shift  
+- thrust - spacebar 
